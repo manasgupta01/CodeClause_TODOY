@@ -5,11 +5,12 @@
       <map>
         <entry key="..\:/download games/Todo/app/src/main/res/drawable/cardview_border.xml" value="0.1675" />
         <entry key="..\:/download games/Todo/app/src/main/res/drawable/ic_baseline_edit_calendar_24.xml" value="0.2425" />
+        <entry key="..\:/download games/Todo/app/src/main/res/drawable/ic_outline_edit_24.xml" value="0.1675" />
         <entry key="..\:/download games/Todo/app/src/main/res/drawable/ic_outline_edit_note_24.xml" value="0.2425" />
         <entry key="..\:/download games/Todo/app/src/main/res/drawable/ic_round_done_outline_24.xml" value="0.2425" />
         <entry key="..\:/download games/Todo/app/src/main/res/layout/activity_main.xml" value="0.176" />
         <entry key="..\:/download games/Todo/app/src/main/res/layout/activity_notes.xml" value="0.23645833333333333" />
-        <entry key="..\:/download games/Todo/app/src/main/res/layout/activity_open.xml" value="0.20471014492753623" />
+        <entry key="..\:/download games/Todo/app/src/main/res/layout/activity_open.xml" value="0.152" />
         <entry key="..\:/download games/Todo/app/src/main/res/layout/activity_splash.xml" value="0.20471014492753623" />
         <entry key="..\:/download games/Todo/app/src/main/res/layout/add_new_task.xml" value="0.2" />
         <entry key="..\:/download games/Todo/app/src/main/res/layout/each_task.xml" value="0.264" />

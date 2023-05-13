@@ -36,7 +36,7 @@ public class open extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_open);
-        editText=findViewById(R.id.editText);
+        editText=(EditText) findViewById(R.id.editText);
         mAuth=FirebaseAuth.getInstance();
         userid=mAuth.getUid();
         firestore = FirebaseFirestore.getInstance();
